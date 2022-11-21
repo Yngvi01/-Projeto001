@@ -36,7 +36,17 @@ main{
     position: relative;
     top: 81px;
     left: 22px;
-    height: "470px";
-    width: "268px";
+    height: 470px;
+    width: 268px;
+    
+}
+#redes-sociais{
+    text-align: right;
+}
+#redes-sociais img{
+    border-radius: 50%;
+    width: 65px;
+    margin: 8px;
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.562)
     
 }
